@@ -80,3 +80,7 @@ body{
   .right{
     justify-content: flex-end;          /* aligning it to the right side*/
   }
+
+  .indent{
+    margin-left: 1em;
+  }
