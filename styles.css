@@ -85,6 +85,6 @@ body{
     margin-left: 1em;
   }
 
-  .daily-value p:not(.no-divider){
+  .daily-value p:not(.no-divider){          /* :not pseudo selector to exclude*/
     border-bottom:1px solid #888989;
   }
